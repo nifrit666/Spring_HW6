@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ru.geekbrains.springhw6"},{"l":"ru.geekbrains.springhw6.controllers"},{"l":"ru.geekbrains.springhw6.model"},{"l":"ru.geekbrains.springhw6.repository"},{"l":"ru.geekbrains.springhw6.service"},{"l":"ru.geekbrains.springhw6.service.impl"}];updateSearchResults();
