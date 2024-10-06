@@ -11,9 +11,9 @@ import java.util.Optional;
 public interface NoteRepo extends JpaRepository<Note, Long> {
 
     /**
-     * Найти заметку по id
+     * Найти запись по id
      * @param id must not be {@literal null}.
-     * @return возвращает заметку.
+     * @return возвращает запись.
      */
     Optional<Note> findById(Long id);
 }

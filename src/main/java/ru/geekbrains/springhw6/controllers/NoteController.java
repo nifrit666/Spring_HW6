@@ -18,7 +18,7 @@ public class NoteController {
     private final NoteService noteService;
 
     /**
-     * Добавление(создание) новой заметки
+     * Добавление(создание) новой записи
      * @param note
      * @return
      */
@@ -30,7 +30,7 @@ public class NoteController {
 
 
     /**
-     * Просмотр всех заметок
+     * Просмотр всех записей
      * @return
      */
     @GetMapping
@@ -39,7 +39,7 @@ public class NoteController {
     }
 
     /**
-     * Получение заметки по ID
+     * Получение записи по ID
      * @param id
      * @return
      */
@@ -55,7 +55,7 @@ public class NoteController {
     }
 
     /**
-     * Редактирование заметки по id
+     * Редактирование записи по id
      * @param note
      * @return
      */
@@ -68,7 +68,7 @@ public class NoteController {
 
 
     /**
-     * Удаление заметки по id
+     * Удаление записи по id
      * @param id
      * @return
      */
